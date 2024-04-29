@@ -1,0 +1,3 @@
+[submodule "omnizdebug"]
+	path = omnizdebug
+	url = git@github.com:omniz/omnizdebug.git
